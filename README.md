@@ -1,6 +1,6 @@
-# ACTIVIDAD EVALUABLE 2.1
+# ACTIVIDAD EVALUABLE 2.2
 
-0. Crea programa con un menú de 10 opciones, dicho menú constará de 9 proyectos (ejercicios) y la opción 10 para finnalizará la ejecución del mismo. (Recuerda aplicar las buenas prácticas aprendidas el la primera práctica).
+Crea programa con un menú de 10 opciones, dicho menú constará de 9 proyectos (ejercicios) y la opción 10 para finnalizará la ejecución del mismo. (Recuerda aplicar las buenas prácticas aprendidas el la primera práctica).
 
 1. Crea un proyecto llamado Thread Race. Define una subclase que extienda de Thread llamada RunnerThread y crea 3 objetos de esta subclase. Cada uno tendrá su propio nombre A, B y C, y deberán contar del 1 al 1000. El programa principal deberá esperar a que finalicen todos sus hilos, y deberá dormir 100 ms después de cada iteración, y escribir el conteo actual para cada hilo. Por ejemplo:
 
